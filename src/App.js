@@ -1,4 +1,4 @@
-import './App.css';
+import './App.css'; //
 import boo from './IMAGES/boo the dog.png'
 import ed from './IMAGES/EDITED .png'
 import clipo from './IMAGES/Glasses clipart .png'
