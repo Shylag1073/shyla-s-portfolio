@@ -1,0 +1,133 @@
+.App {
+  text-align: center;
+}
+* {
+  background-color: tan;
+}
+html {
+scroll-behavior: smooth;
+}
+header {
+  font-family: 'Courier New', Courier, monospace;
+  position:sticky;
+  top: 0;
+  text-align: center;
+  font-size: 20px;
+  word-spacing: 15px;
+  border-bottom: black solid medium;
+}
+header h1 {
+  border-bottom: black solid medium;
+  padding-bottom: 10px;
+
+}
+
+header img {
+display:inline;
+width: 400px;
+height:auto;
+}
+
+header nav{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large ;
+  font-weight: bold;
+  word-spacing: normal;
+}
+
+header nav li {
+ float:left ;
+ display: inline;
+  
+}
+header nav li a {
+  display: block;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+header nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+
+header nav :hover {
+  color: white;
+
+}
+.selfie {
+display: flex;
+float: left;
+margin-right: 25px;
+width: 250px;
+height: auto;
+border-radius:30px ;
+}
+.content {
+width: 75%;
+display: inline;
+margin-left: 50px;
+margin-right: 10px;
+} 
+
+.content article h2 {
+text-align: center; 
+font-family: 'Courier New', Courier, monospace;
+word-spacing: 10px;
+text-decoration: underline;
+color: white;
+}
+.content article {
+text-align: center;
+border-bottom: black solid medium;
+padding-bottom: 10px;
+margin-top: 10px;
+}
+
+.content article p {
+display: flex;
+justify-content: center;
+font-family: 'Courier New', Courier, monospace;
+font-size: medium;
+margin-bottom: 70px;
+
+}
+.content article ul {
+display: flex ;
+flex-wrap: wrap;
+justify-content: center;
+word-spacing: 5px;
+list-style-type:none;
+font-size: large;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+}
+.content p2 {
+display: flex;
+justify-content: center;
+}
+
+a img:hover {
+text-shadow: 5px 10px 15px rgba(0, 0, 0, 0);
+box-shadow: 5px 10px 15px black;
+border: black dotted 5px;
+
+
+}
+.small {
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+
