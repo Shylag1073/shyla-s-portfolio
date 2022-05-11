@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Shyla-s-profilo/static/css/main.8b636adc.css",
+    "main.js": "/Shyla-s-profilo/static/js/main.ea5785d2.js",
+    "static/js/787.d8240e27.chunk.js": "/Shyla-s-profilo/static/js/787.d8240e27.chunk.js",
+    "static/media/Horiseon.png": "/Shyla-s-profilo/static/media/Horiseon.4a15e2af4f5393209d3a.png",
+    "static/media/Run buddy.png": "/Shyla-s-profilo/static/media/Run buddy.10f4b416b6f015ca4c59.png",
+    "static/media/Scholarshipapp.png": "/Shyla-s-profilo/static/media/Scholarshipapp.0f836da69cc24bebabc2.png",
+    "static/media/EDITED .png": "/Shyla-s-profilo/static/media/EDITED .643832047a3097af65f1.png",
+    "static/media/boo the dog.png": "/Shyla-s-profilo/static/media/boo the dog.6a80853e7eb519177cc7.png",
+    "static/media/Glasses clipart .png": "/Shyla-s-profilo/static/media/Glasses clipart .534e84ba383043da5b4e.png",
+    "index.html": "/Shyla-s-profilo/index.html",
+    "main.8b636adc.css.map": "/Shyla-s-profilo/static/css/main.8b636adc.css.map",
+    "main.ea5785d2.js.map": "/Shyla-s-profilo/static/js/main.ea5785d2.js.map",
+    "787.d8240e27.chunk.js.map": "/Shyla-s-profilo/static/js/787.d8240e27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b636adc.css",
+    "static/js/main.ea5785d2.js"
+  ]
+}
