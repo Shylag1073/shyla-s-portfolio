@@ -65,12 +65,34 @@ function App() {
       </p2>
     </article>
     <article id="Contact">
-      <h2>My CONTACT</h2>
-      <ul>
-        <li><a id="link" href="https://github.com/Shylag1073">GitHub</a></li>
-        <li>Phone: (***)-***-****</li>
-        <li>Email: Shyla****@****.com</li>
-      </ul>
+      <h2>CONTACT ME</h2>
+
+      <h4> <a href="https://github.com/Shylag1073"><b> Github </b></a></h4>
+      <form id="contact-form">
+        <div>
+         <h4><label htmlFor="name">Name:</label> </h4>
+          <input
+            type="text"
+            name="name"
+          />
+        </div>
+        <div>
+          <h4> <label htmlFor="email">Email address:</label></h4>
+          <input
+            type="email"
+            name="email"
+          />
+        </div>
+        <div>
+          <h4><label htmlFor="message">Message:</label></h4>
+          <textarea
+            name="message"
+            rows="5"
+          />
+        </div>
+    
+        <button type="submit">Submit</button>
+      </form>
     </article>
   </section>
 </div>
