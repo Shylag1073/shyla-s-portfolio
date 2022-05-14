@@ -38,7 +38,7 @@ function App() {
                 development. I am currently enrolled in the Coding Boot Camp at the University of Texas.
             </p>
             <p>
-              I'm profincent in both front end and back end technology, which includes HTML,CSS,JavaScript,
+              I'm proficient in both front end and back end technology, which includes HTML,CSS,JavaScript,
               Bootstrap,React. Also some back-end includes node,Express, SQL, MongoDB, and APIs. 
             </p>
             <p> Please fill free to check my recent work on GitHub and reach out if you have any questions or if you have any
