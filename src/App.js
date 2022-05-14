@@ -33,18 +33,18 @@ function App() {
       <h2>ABOUT ME</h2>
       <img src={ed} alt="cute sefie" className="selfie" />
       <p>
-        Hi! I’m Shyla (: I’m currently located in Texas but I’m from Boston,MA originally. I’ve
-        decided to put my career on hold , in order to pursue a new career in web
-        development. I am currently enrolled in the Coding Boot Camp at the University of Texas.
-      </p>
-      <p>
-        I am eager to fully immerse myself in web development and absorb all of the new information like a
-        sponge. I am motivated and creative . A couple of my favorite things
-        are my dog, pizza, coffee, sunsets and my dog.
-      </p>
-      <p> Please fill free to check my recent work and reach out if you have any questions or if you have any
-        advice you’ll like to give to a new web developer. I can’t wait to collaborate with you!!
-      </p>
+                Hi! I’m Shyla (: I’m currently located in Texas but I’m from Boston,MA originally. I’ve
+                decided to put my career on hold , in order to pursue a new career in web
+                development. I am currently enrolled in the Coding Boot Camp at the University of Texas.
+            </p>
+            <p>
+              I'm profincent in both front end and back end technology, which includes HTML,CSS,JavaScript,
+              Bootstrap,React. Also some back-end includes node,Express, SQL, MongoDB, and APIs. 
+            </p>
+            <p> Please fill free to check my recent work on GitHub and reach out if you have any questions or if you have any
+                advice you’ll like to give to a new web developer. I can’t wait to collaborate with you!!
+            </p>
+      
     </article>
     <article id="Work">
       <h2>MY WORK</h2>
@@ -67,6 +67,7 @@ function App() {
     <article id="Contact">
       <h2>My CONTACT</h2>
       <ul>
+        <li><a id="link" href="https://github.com/Shylag1073">GitHub</a></li>
         <li>Phone: (***)-***-****</li>
         <li>Email: Shyla****@****.com</li>
       </ul>
